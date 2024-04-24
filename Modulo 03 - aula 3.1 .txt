@@ -1,0 +1,22 @@
+Modulo 03 - aula 3.1 
+
+
+__________RESUMO DA AULA __________________________________________
+
+index = o primeiro arquivo que o servidor vai buscar na pasta 
+
+TODA A PAGINA PRINCIPAL DEVE TER O NOME DO ARQUIVO INDEX.HTML 
+
+.html = formato que o arquivo deve ter 
+
+todo o texto que tiver entre <> ou </> = chamado de tag ou elemento 
+
+<meta charset="UTF-8"> = faz ser possivel a inserção de carcteres especiaus       - padrão internacional
+
+name="viewport" = configuraçao da tela para diferentes dispositivos 
+(pc, mobile, ou tablets) 
+
+content="width=device-width, initial-scale=1.0" = forma como o conteudo vai ser visualizado 
+
+
+

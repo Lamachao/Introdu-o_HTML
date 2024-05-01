@@ -1,10 +1,23 @@
+*{
+    color: antiquewhite;
+    box-sizing: border-box;
+}
+.container{ 
+    display: block;
+    width: 800px;
+    margin: 0 auto 0 200px;
+    box-sizing: border-box;
+}
+.lista{
+    display: flex;
+}
 body{
-    background-color: #515d5f
+    background-color: #869597
     
     ;
 }
 h1{
-    color: #F4845F;
+    color: #ff5b4f;
 }
 h2{
     color: #F79D65;
@@ -17,7 +30,8 @@ h4{
 }
 .mark{
     background-color: #F4845F;
-}
-*{
-    color: antiquewhite;
+    }
+.mark_2{
+    background-color: #fbcf29;
+    color: #515d5f;
 }
